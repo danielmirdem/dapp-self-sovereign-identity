@@ -24,6 +24,34 @@
 - Git 2.17.1
 
 
+# Pasos a Seguir para correr la Demo:
+
+
+1) Descargar el Proyecto de GitHub
+https://github.com/danielmirdem/identidad-digital-soberana
+
+2) Ejecutar Ganache
+https://www.trufflesuite.com/ganache
+
+3) Conectar Metamask a Ganache
+https://www.youtube.com/watch?v=jNQLnq8aNuA
+
+4) Hacer el deploy con Truffle
+
+    $ truffle deploy
+
+5) Dentro del directorio del proyecto/app/identity ejecutar:
+
+    $ ng serve
+
+6) Ya puede probar la Demo:
+
+http://localhost:4200/
+
+
+http://localhost:4200/inicio/2
+
+
 # English Version
 
 [Go to Spanish Version](#spanish-version)

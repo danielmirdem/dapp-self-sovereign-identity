@@ -56,8 +56,8 @@ http://localhost:4200/inicio/2
 
 ![Test Image 1](localhost-4000-tor.png)
 
-
-
+    
+    
 # English Version
 
 [Go to Spanish Version](#spanish-version)

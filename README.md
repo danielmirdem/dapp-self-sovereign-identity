@@ -1,13 +1,13 @@
 # identidad-digital-soberana
 
-#Spanish Version
+# Spanish Version
 
 [Go to English Version](#english-version)
 
 
 
 
-#English Version
+# English Version
 
 [Go to Spanish Version](#spanish-version)
 

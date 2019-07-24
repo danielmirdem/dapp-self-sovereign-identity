@@ -1,5 +1,6 @@
 # Identidad Digital Soberana / Self Sovereign Identity 
 
+----------------------------------------------------------------------------------------------
 
 # Spanish Version
 
@@ -56,7 +57,8 @@ http://localhost:4200/inicio/2
 
 ![Test Image 1](localhost-4000-tor.png)
 
-    
+
+----------------------------------------------------------------------------------------------
     
 # English Version
 

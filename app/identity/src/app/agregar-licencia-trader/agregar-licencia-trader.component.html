@@ -4,7 +4,7 @@
 		<div class="col-md-10 center-block">
 			<div class="card">
 				<div class="card-header">
-					<h3 class="panel-title">Agregar Licencia de Inversor Cualificado</h3>
+					<h3 class="panel-title">Pedir Licencia de Inversor Cualificado</h3>
 				</div>
 				<div class="card-body">
 
@@ -35,7 +35,7 @@
 					<hr>			
 					<div class="form-group  bg-light">
 						<label class="control-label" for="greater500kFile">
-						Suba un documento .pdf para probar que posee una cartera de Inversor superior a 500.000.
+						Suba un documento .pdf para probar que posee una cartera de Inversor superior a 500.000 €.
 						</label>
 						<br/>
 						<input type="file" name="greater500kFile" id="greater500kFile" (change)="handleFileGreater500k($event.target.files)">
@@ -51,7 +51,7 @@
 					<hr>			
 					<div class="form-group  bg-light">
 						<label class="control-label" for="txt10TransFile">
-						Suba un archivo .csv con las 10 transacciones mas importantes por trimestre en los últimos cuatro trimestres.
+						Suba un archivo .csv con las 10 transacciones importantes por trimestre en los últimos cuatro trimestres.
 						</label>
 						<br/>
 						<input type="file" name="txt10TransFile" id="txt10TransFile" (change)="handleFile10TransFile($event.target.files)">
@@ -60,7 +60,7 @@
 				<div class="card-footer">
 					<div class="row">
 						<div class="col-md-3">
-							<button type="button" class="btn btnsm btn-primary" (click)="addLicencia()">Agregar Licencia</button>
+							<button type="button" class="btn btnsm btn-primary" (click)="addLicencia()">Pedir Licencia</button>
 							
 						</div>	
 

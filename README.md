@@ -33,6 +33,8 @@ https://github.com/danielmirdem/identidad-digital-soberana
 2) Ejecutar Ganache
 https://www.trufflesuite.com/ganache
 
+![Test Image 1](ganache.png)
+
 3) Conectar Metamask a Ganache
 https://www.youtube.com/watch?v=jNQLnq8aNuA
 
@@ -48,8 +50,12 @@ https://www.youtube.com/watch?v=jNQLnq8aNuA
 
 http://localhost:4200/
 
+![Test Image 1](localhost-4200-cnmv.png)
 
 http://localhost:4200/inicio/2
+
+![Test Image 1](localhost-4000-tor.png)
+
 
 
 # English Version

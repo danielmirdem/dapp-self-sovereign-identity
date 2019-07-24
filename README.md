@@ -2,8 +2,7 @@
 
 ----------------------------------------------------------------------------------------------
 
-# Spanish Version
-
+# Spanish Version 
 [Go to English Version](#english-version)
 
 

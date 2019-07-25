@@ -10,6 +10,10 @@
 
 ![Test Image 1](Identidad-Soberana.png)
 
+# Esquema de Claims
+
+![Test Image 1](claims.PNG)
+
 
 # Requerimientos de Tecnologías para correr la Demo en forma local:
 
@@ -67,6 +71,12 @@ http://localhost:4200/inicio/2
 # Architecture Diagram
 
 ![Test Image 1](Identidad-Soberana.png)
+
+
+# Claims Scheme
+
+![Test Image 1](claims.PNG)
+
 
 
 # Technologies:

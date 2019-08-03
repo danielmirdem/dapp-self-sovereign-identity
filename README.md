@@ -10,7 +10,7 @@
 
 # Architecture Diagram
 
-![Test Image 1](Identidad-Soberana.png)
+![Test Image 1](sovereign-identity.png)
 
 
 # Claims Scheme
